@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Campaign Frame/Lore.md",
+                "file": "Campaign/Campaign Frame/The Frame.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lore"
+              "title": "The Frame"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lazy GM Campaign Template/Characters.md",
+                "file": "Campaign/Campaign Frame/The Frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Characters"
+              "title": "Backlinks for The Frame"
             }
           },
           {
@@ -150,8 +150,7 @@
               "title": "Outline of Lore"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,43 +171,46 @@
   },
   "active": "b3294731c679a734",
   "lastOpenFiles": [
+    "Campaign/Session notes/Upcoming sessions.md",
+    "Campaign/Session notes/Past sessions.md",
+    "Campaign/Campaign Frame/The Frame.md",
     "Campaign/Campaign Frame/Lore.md",
     "Campaign/Factions/The Undying.md",
+    "Campaign/Factions/The Institute.md",
+    "Campaign/Factions/Church of Rebirth.md",
+    "Campaign/Factions/Church of Life.md",
+    "Campaign/Factions/Church of Death.md",
+    "Unstructured notes/Campaign opening ideas.md",
+    "Unstructured notes/Potential dramatic effects.md",
+    "Unstructured notes/Session zero.md",
+    "Campaign/Campaign Frame/attachments/the_undying.png",
+    "Campaign/Campaign Frame/attachments/old_pantheon.png",
+    "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Campaign/Campaign Frame/Pantheon.md",
-    "Campaign/Campaign Frame/The Frame.md",
+    "Lazy GM Campaign Template/Locations/Example Location.md",
+    "Campaign/Campaign Frame/attachments/CoaMaker_hq.png",
+    "Campaign/Campaign Frame/attachments",
+    "Campaign/Campaign Frame/New folder",
+    "Lazy GM Campaign Template/NPCs.md",
+    "Lazy GM Campaign Template/Characters.md",
     "Campaign/Campaign Frame/Untitled",
     "Campaign/Locations/Abandoned capital.md",
     "Campaign/Campaign Frame",
-    "Campaign/Factions/Church of Rebirth.md",
-    "Campaign/Factions/The institute.md",
-    "Campaign/Session notes/Upcoming sessions.md",
-    "Campaign/Session notes/Past sessions.md",
     "Campaign/Locations/Starter village.md",
     "Campaign/Unbound NPCs",
     "Campaign/Untitled.md",
-    "Campaign/Factions/Church of Death.md",
     "Campaign/Untitled 1.md",
     "Campaign/Random encounters",
-    "Campaign/Factions/Church of Life.md",
     "Campaign/Session notes",
     "Campaign/Factions",
     "Campaign/NPCs",
     "Campaign/Locations",
-    "Campaign/Characters",
     "Unstructured notes/Adventure 1 - Discovering the first tomb.md",
-    "Campaign",
-    "Lazy GM Campaign Template/Locations/Example Location.md",
     "Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
-    "Lazy GM Campaign Template/Characters.md",
     "Unstructured notes/Adversary and environment templates.md",
     "Lazy GM Campaign Template/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg.md",
-    "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "Lazy GM Campaign Template/NPCs.md",
-    "Unstructured notes/Session zero.md",
     "Unstructured notes/Arc 1 - The discovery of the BBEG.md",
-    "Unstructured notes/Potential dramatic effects.md",
-    "Unstructured notes/Faction X.md",
-    "Unstructured notes/Allied factions.md"
+    "Unstructured notes/Faction X.md"
   ]
 }

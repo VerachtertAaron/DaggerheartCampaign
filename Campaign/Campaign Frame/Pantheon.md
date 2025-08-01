@@ -1,4 +1,9 @@
-# Main two (three)
+# The Old Pantheon (three)
+
 ## Cynon, God of Death
 ## Eripnes, God of Life
-## Acathea, God of Rebirth
+## Praditaea, God of Rebirth
+
+![[old_pantheon.png]]
+# The New Pantheon
+#todo 
