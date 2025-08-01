@@ -1,0 +1,4 @@
+- What do you want to achieve with the encounter?
+- What are the motives of everyone involved
+- Is it a social, chase or combat encounter? What would cause it to become one or the other?
+- Are there alternative ways of solving? Are there subgoals? Any countdowns?

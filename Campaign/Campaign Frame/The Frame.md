@@ -1,30 +1,46 @@
-# Concept
 # Overview
-- Hundreds of years ago, this area was controlled by The Empire of the Old Gods, ruled by the Church of the Pantheon. It was a theocratic empire, with the Triumvirate at the wheel. The triumvirate consisted of the heads of church of the three gods in the Pantheon: [[Pantheon#Cynon, God of Death]], [[Pantheon#Eripnes, God of Life]] and [[Pantheon#Praditaea, God of Rebirth]]. All aspects of life were guided by the principles, customs and rules imposed by the Triumvirate, and watched over by the Crusaders of the Pantheon.
+- Hundreds of years ago, this area was controlled by The Empire of the Old Gods, ruled by the Church of the Pantheon. It was a theocratic empire, with the Triumvirate at the wheel. The triumvirate consisted of the heads of church of the three gods in the Pantheon: [[Pantheon#Cynon, God of Death]], [[Pantheon#Eripnes, God of Life]] and [[Pantheon#Praditaea, God of Rebirth]]. All aspects of life were guided by the principles, customs and rules imposed by the Triumvirate, and watched over by the Crusaders of the Pantheon. 
 - As the enforcers of the Gods, these crusaders were the police and army of The Empire.
 - Not much is known about how or why it happened, but at a certain point the leader of the Crusaders, the God-King Athelios plotted against the Triumvirate, in what is now known as The Great Usurpation. He had each three of the church leaders captured and killed in a sadistic ritual meant to sever the link of the Churches with the Gods and claim their power as his own. In a selfless act, Praditaea sacrificed herself to negate the ritual and protect the other two Gods. Struck by the anger of the remaining Gods, Athelios was killed and sealed away.
-- After The Great Usurpation, The Old Gods, now disgusted by mortal life and its lowly ambitions, struck down the Empire. Houses, buildings, areas and even cities were sealed, not in a traditional way, but using illusionary magic that hides these areas by bending space. Hints of these old locations were recorded in the annals of neighbouring countries and tribes, but most are no longer remembered, let alone their locations.
-- As the Old Pantheon retreated, a void was created soon filled by lesser Gods.
-	- **CRAFT THIS TOGETHER**
-- Nowadays, this continent is ruled by mostly smaller kingdoms. Learning from the mistakes of their ancestors, most of these kingdoms are no longer ruled by the Church. People are still weary to give to much power to the priests and followers of the New Pantheon. **CRAFT THIS KINGDOM TOGETHER**
+- After The Great Usurpation, The Old Gods, now disgusted by mortal life and its lowly ambitions, struck down the Empire. Houses, buildings, areas and even cities were sealed, not in a traditional way, but using illusionary magic that hides these areas by bending space. Hints of these old locations were recorded in the annals of neighbouring countries and tribes, but most are no longer remembered, let alone their locations. It does seem weird that there is barely any records of these sealed locations.
+- As the Old Pantheon retreated, a void was created soon filled by lesser Gods. **CRAFT THIS TOGETHER**
+- Nowadays, this continent is ruled by mostly smaller kingdoms. Learning from the mistakes of their ancestors, most of these kingdoms are no longer ruled by the Church. People are still weary to give to much power to the priests and followers of the New Pantheon, especially those in power. **CRAFT THIS KINGDOM TOGETHER**
 - In the recent years, 
-	- Seals are weakening, locations are being uncovered. Not all at once, but all over the place and all over time. Bigger stuff usually in uninhabited places deep into the forest or out into a lake, but smaller stuff all accross the continent. Some even inside cities and villages, with panic and occasionally even disastrous events to follow. Most of these locations just appear to be abandoned ruins of the Empire of the Old Pantheon, with some locations containing valuable trinkets. Some factions have emerged to uncover the mysteries of these now unsealed locations, but most of these are organising in the major cities which are far from your party.
-	- Somehow, monsters have been appearing near these unsealed locations
-		- **CRAFT SOME RUMORS, EVENTS, LOCATIONS, OLD POWERS OR FOES THAT HAVE NOW AGAIN BEEN FREED**
-	- Rumors started spreading about a traveler bringing people back, Doctor who style #todo this needs a good story with an example.
+	- Seals are weakening, locations are being uncovered. They are generally called "Reawakened Locations" Not all at once, but all over the place and all over time. Bigger stuff usually in uninhabited places deep into the forest or out into a lake, but smaller stuff all accross the continent. Some even inside cities and villages, with panic and occasionally even disastrous events to follow. Most of these locations just appear to be abandoned ruins of the Empire of the Old Pantheon, with some locations containing valuable trinkets. Some factions have emerged to uncover the mysteries of these now unsealed locations, but most of these are organising in the major cities which are far from your party.
+	- Somehow, monsters have been appearing near these unsealed locations **CRAFT SOME RUMORS, EVENTS, LOCATIONS, OLD POWERS OR FOES THAT HAVE NOW AGAIN BEEN FREED**
+	- Rumors started spreading about a traveler bringing people back, Doctor who style. Major factions started researching on resurrection #todo this needs a good story with an example.
+# Communities
+- **Highborne & Orderborne:** As part of a society that takes part of kingdoms that distrust any godly worship, where do you stand in this mentality? Did your community hold any special beliefs, and do you hold them as well?
+- **Loreborne:** There are some loreborne communities of archaeologists and historians that specialize in the time period before, during and after The Great Usurpation. What did your community focus on?
+- **Wanderborne:** As part of a wandering community, you might have encountered some Reawakened Locations before. What were they, and what did you learn from them?
+# Ancestries
+- **Clank:** either related to Old Empire (stone) or science based new world order (metal)
+- **Elves:** very old ones might have been alive at the time of the Great Usurpation, however too old to adventure. You might have family that can tell some tales about the Old Empire though.
+- **Fungril:** As the tendrils of the fungril networks extend throughout the continent and have done so for eternity, you might have an affinity for finding Reawakened or Not-yet-awakened Locations. Your elders will for sure know some locations that have vanished.
+- **Infernis:** very rare, you'd be sure to attract some attention; especially from the Churches of the Old Gods as they see you as ancient enemies that potentially corrupted the God-King
+# Classes
+- Splendor users
+	- As the Old Pantheon revoked their direct influence on this world, Splendor users usually don't worship them. However, some fractions kept on worshipping them and recently, Splendor users have started to turn up with powers linked to the God of Life & God of Death. They are generally viewed as fanatic cultists. Worshippers of the God of Rebirth won't have divine powers. Whatever you choose, you would be a worshipper with potentially newfound powers. No link with the organisational aspect of your church, but you might know some people.
+	- Seraphs of the God of Life & Death will be potentially more deeply connected to the story, which might force you to either embrace or revoke your church based on personal beliefs. Revoking your church might lead to complications.
+- Magic users
+	- The unsealing of the Reawakened Locations has made people less trusting of magic users, as if it's the collective fault of all magic wielders. Be ready to face some conflicts or consequences.
 # Campaign Mechanics
-- The Old Gods pulled away from this realm, deciding to no longer interact directly even with those that follow its faith. 
-- Resurrection magic has been lost in time
-- Extra death insurance after encountering [[The Institute]]:
-	- Bronze level (1 handful / month): body is incinerated
-	- Silver level (1 bag / month): body is warded and returned
-- Extra death move after encountering [[The Institute]]:
-	- Gold level (1 chest / month, **can activate only once**): only roll hope die for risk it all
-	- Platinum level (10 chests / month, **can activate only once**): same as gold, but roll d20
-- After being damaged by undead, scars become infected. Gives the infected a +1 damage per scar, but upon marking all scars you turn undead. Cure unknown
+- Resurrection magic has been lost in time. For the moment, it is impossible to find a priest that can bring back your allies.
+- Reawakened Locations are hotspots for magical energy. Be prepared to encounter any ongoing magical effects.
+> [!Spoiler]- 
+> - Extra death insurance after encountering [[The Institute]]:
+>	- Bronze level (1 handful / month): body is incinerated
+>	- Silver level (1 bag / month): body is warded and returned
+> - Extra death move after encountering [[The Institute]]:
+>	- Gold level (1 chest / month, **can activate only once**): only roll hope die for risk it all
+>	- Platinum level (10 chests / month, **can activate only once**): same as gold, but roll d20
+> - After being damaged by undead, scars become infected. Gives the infected a +1 damage per scar, but upon marking all scars you turn undead. Cure unknown
+> - After the undeath scourge has been triggered, resting becomes dangerous (see Age of Umbra Lurking Darkness)
 ## Major Locations
+- Capital of the old Empire could house a lot of clues on what happened during and after the Great Usurpation
+- Current capital of the kingdom houses plenty of factions and commerce. 
 
-
-## Core Philosophies and Ideologies
-- There exist rituals to seal the dead and let them stay dead. Either that, or burn them.
-## Pantheon
+# Session zero questions
+- Think of how the unsealing of the locations matters to you. Were you impacted personally? Are you perhaps interested? Interested in the magical aspects, or the archaeological? Curious about who or what was trapped inside when the sealing happened?
+- Think of how you view worshippers of the gods, old and new. Do you worship yourself?
+- Do you have a view on resurrection?

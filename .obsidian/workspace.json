@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Campaign Frame/The Frame.md",
-                "mode": "source",
+                "file": "Campaign/Campaign Frame/Pantheon.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Frame"
+              "title": "Pantheon"
             }
           }
         ]
@@ -171,17 +171,18 @@
   },
   "active": "b3294731c679a734",
   "lastOpenFiles": [
-    "Campaign/Session notes/Upcoming sessions.md",
-    "Campaign/Session notes/Past sessions.md",
     "Campaign/Campaign Frame/The Frame.md",
-    "Campaign/Campaign Frame/Lore.md",
     "Campaign/Factions/The Undying.md",
     "Campaign/Factions/The Institute.md",
+    "Unstructured notes/Encounter building.md",
+    "Unstructured notes/Potential dramatic effects.md",
+    "Campaign/Session notes/Upcoming sessions.md",
+    "Campaign/Session notes/Past sessions.md",
+    "Campaign/Campaign Frame/Lore.md",
     "Campaign/Factions/Church of Rebirth.md",
     "Campaign/Factions/Church of Life.md",
     "Campaign/Factions/Church of Death.md",
     "Unstructured notes/Campaign opening ideas.md",
-    "Unstructured notes/Potential dramatic effects.md",
     "Unstructured notes/Session zero.md",
     "Campaign/Campaign Frame/attachments/the_undying.png",
     "Campaign/Campaign Frame/attachments/old_pantheon.png",
@@ -210,7 +211,6 @@
     "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
     "Unstructured notes/Adversary and environment templates.md",
     "Lazy GM Campaign Template/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg.md",
-    "Unstructured notes/Arc 1 - The discovery of the BBEG.md",
-    "Unstructured notes/Faction X.md"
+    "Unstructured notes/Arc 1 - The discovery of the BBEG.md"
   ]
 }
