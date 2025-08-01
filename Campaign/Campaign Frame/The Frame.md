@@ -8,9 +8,9 @@
 	- **CRAFT THIS TOGETHER**
 - Nowadays, this continent is ruled by mostly smaller kingdoms. Learning from the mistakes of their ancestors, most of these kingdoms are no longer ruled by the Church. People are still weary to give to much power to the priests and followers of the New Pantheon. **CRAFT THIS KINGDOM TOGETHER**
 - In the recent years, 
-	- Seals are weakening, locations are being uncovered. Not all at once, but all over the place and all over time. Bigger stuff usually in uninhabited places deep into the forest or out into a lake, but smaller stuff all accross the continent. Some even inside cities and villages, with panic and occasionally even disastrous events to follow. Most of these locations just appear to be abandoned ruins of the Empire of the Old Pantheon, with some locations containing valuable trinkets. Archaeologists also value the hints of information about the old Empire.
+	- Seals are weakening, locations are being uncovered. Not all at once, but all over the place and all over time. Bigger stuff usually in uninhabited places deep into the forest or out into a lake, but smaller stuff all accross the continent. Some even inside cities and villages, with panic and occasionally even disastrous events to follow. Most of these locations just appear to be abandoned ruins of the Empire of the Old Pantheon, with some locations containing valuable trinkets. Some factions have emerged to uncover the mysteries of these now unsealed locations, but most of these are organising in the major cities which are far from your party.
 	- Somehow, monsters have been appearing near these unsealed locations
-		- **CRAFT SOME RUMORS, LOCATIONS, OLD POWERS OR FOES THAT HAVE NOW AGAIN BEEN FREED**
+		- **CRAFT SOME RUMORS, EVENTS, LOCATIONS, OLD POWERS OR FOES THAT HAVE NOW AGAIN BEEN FREED**
 	- Rumors started spreading about a traveler bringing people back, Doctor who style #todo this needs a good story with an example.
 # Campaign Mechanics
 - The Old Gods pulled away from this realm, deciding to no longer interact directly even with those that follow its faith. 
