@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "1cf4ea8c781840d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd04923df962eb5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3294731c679a734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Campaign Frame/Lore.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lore"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09283026a1470bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "10944609c8849117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee3ada7ba10f21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2d6787073b39015",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "320dcacb1c3eb775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71764f4a3fcb07b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d6395905df537f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c1f2459afee2c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lazy GM Campaign Template/Characters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Characters"
+            }
+          },
+          {
+            "id": "6a985f9ad6b06253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "960b50ae41a72045",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "63d629ca4f5d048d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/Campaign Frame/Lore.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lore"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "daggerheart-tools:Daggerheart Tools": false
+    }
+  },
+  "active": "b3294731c679a734",
+  "lastOpenFiles": [
+    "Campaign/Campaign Frame/Lore.md",
+    "Campaign/Factions/The Undying.md",
+    "Campaign/Campaign Frame/Pantheon.md",
+    "Campaign/Campaign Frame/The Frame.md",
+    "Campaign/Campaign Frame/Untitled",
+    "Campaign/Locations/Abandoned capital.md",
+    "Campaign/Campaign Frame",
+    "Campaign/Factions/Church of Rebirth.md",
+    "Campaign/Factions/The institute.md",
+    "Campaign/Session notes/Upcoming sessions.md",
+    "Campaign/Session notes/Past sessions.md",
+    "Campaign/Locations/Starter village.md",
+    "Campaign/Unbound NPCs",
+    "Campaign/Untitled.md",
+    "Campaign/Factions/Church of Death.md",
+    "Campaign/Untitled 1.md",
+    "Campaign/Random encounters",
+    "Campaign/Factions/Church of Life.md",
+    "Campaign/Session notes",
+    "Campaign/Factions",
+    "Campaign/NPCs",
+    "Campaign/Locations",
+    "Campaign/Characters",
+    "Unstructured notes/Adventure 1 - Discovering the first tomb.md",
+    "Campaign",
+    "Lazy GM Campaign Template/Locations/Example Location.md",
+    "Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
+    "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
+    "Lazy GM Campaign Template/Characters.md",
+    "Unstructured notes/Adversary and environment templates.md",
+    "Lazy GM Campaign Template/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg.md",
+    "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "Lazy GM Campaign Template/NPCs.md",
+    "Unstructured notes/Session zero.md",
+    "Unstructured notes/Arc 1 - The discovery of the BBEG.md",
+    "Unstructured notes/Potential dramatic effects.md",
+    "Unstructured notes/Faction X.md",
+    "Unstructured notes/Allied factions.md"
+  ]
+}

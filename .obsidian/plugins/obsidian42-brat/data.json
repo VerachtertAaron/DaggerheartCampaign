@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "gotsanity/Obsidian-Daggerheart-Tools"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "gotsanity/Obsidian-Daggerheart-Tools",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
