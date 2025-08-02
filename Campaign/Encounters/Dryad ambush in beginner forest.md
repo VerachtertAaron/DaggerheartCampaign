@@ -16,7 +16,7 @@ feats:
 ```adversary
 name: Young Dryad
 ```
-# Dire Wolf - 3 (6)
+# Dire Wolf - 2 (4)
 ```adversary
 name: Dire Wolf
 ```
