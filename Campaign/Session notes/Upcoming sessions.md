@@ -9,7 +9,12 @@
 	- Marcus (Warrior)
 	- Gabe (Rogue)
 	- Ellie (Sorcerer)
-- #todo Encounter in the forest. Maybe some lowlife looking for treasure?
+- 
+- #todo Encounter in the forest. I'm thinking a tribe of dryads got attacked by the ruffians at the church. Upon ambush, shout "Kill those that killed our sisters!"
+	- **Goal**: Stop the dryads from killing the party.
+	- **Solutions**: defeat or reason.
+	- **Adversaries**: [[Dryad ambush in beginner forest]]
+	- **Rewards (reason)**: dryads point them in the right direction, giving them advantage on tracking
 - Party comes upon ruins of a church, guarded by ruffians
 	- They hear some noises, people discussing loudly
 	- They see some figures with a pyre burning next to the entrance

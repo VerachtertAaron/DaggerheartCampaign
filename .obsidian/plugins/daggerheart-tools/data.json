@@ -4458,6 +4458,121 @@
       "adversaries": [],
       "environments": [],
       "allies": []
+    },
+    {
+      "id": "5b7a38095aaa",
+      "adversaries": [
+        {
+          "name": "Sylvan Soldier",
+          "parentId": "8e3b2127-7e45-4292-9d81-0ed688f31dc1",
+          "id": "bb3a596a1a68",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 4,
+          "maxStress": 2
+        },
+        {
+          "name": "Sylvan Soldier",
+          "parentId": "8e3b2127-7e45-4292-9d81-0ed688f31dc1",
+          "id": "8afb7b589acb",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 4,
+          "maxStress": 2
+        },
+        {
+          "name": "Minor Treant",
+          "parentId": "8a0dfc45-2fa7-43dd-aa78-e7338dde2aa6",
+          "id": "ba1a0a7be889",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 1,
+          "maxStress": 1
+        },
+        {
+          "name": "Minor Treant",
+          "parentId": "8a0dfc45-2fa7-43dd-aa78-e7338dde2aa6",
+          "id": "cbc82adb68aa",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 1,
+          "maxStress": 1
+        },
+        {
+          "name": "Minor Treant",
+          "parentId": "8a0dfc45-2fa7-43dd-aa78-e7338dde2aa6",
+          "id": "e96b0bf8abd9",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 1,
+          "maxStress": 1
+        },
+        {
+          "name": "Minor Treant",
+          "parentId": "8a0dfc45-2fa7-43dd-aa78-e7338dde2aa6",
+          "id": "bb08cb785ab8",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 1,
+          "maxStress": 1
+        },
+        {
+          "name": "Minor Treant",
+          "parentId": "8a0dfc45-2fa7-43dd-aa78-e7338dde2aa6",
+          "id": "db08ba285baa",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 1,
+          "maxStress": 1
+        },
+        {
+          "name": "Young Dryad",
+          "parentId": "9ec76b5f-0325-40f1-9b46-0b0447e84f69",
+          "id": "7bba2a89a9ab",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 6,
+          "maxStress": 2
+        },
+        {
+          "name": "Young Dryad",
+          "parentId": "9ec76b5f-0325-40f1-9b46-0b0447e84f69",
+          "id": "0a88cb08cb1b",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 6,
+          "maxStress": 2
+        },
+        {
+          "name": "Dire Wolf",
+          "parentId": "8568f441-8506-4273-b535-289651a0e4a1",
+          "id": "eb3b8afa197a",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 4,
+          "maxStress": 3
+        },
+        {
+          "name": "Dire Wolf",
+          "parentId": "8568f441-8506-4273-b535-289651a0e4a1",
+          "id": "ea0b8b9bd939",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 4,
+          "maxStress": 3
+        },
+        {
+          "name": "Dire Wolf",
+          "parentId": "8568f441-8506-4273-b535-289651a0e4a1",
+          "id": "3b392ac95918",
+          "hp": 0,
+          "stress": 0,
+          "maxHP": 4,
+          "maxStress": 3
+        }
+      ],
+      "environments": [],
+      "allies": []
     }
   ],
   "environments": [

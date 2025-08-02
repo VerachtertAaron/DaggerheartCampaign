@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Campaign Frame/The Frame.md",
-                "mode": "source",
+                "file": "Campaign/Encounters/Dryad ambush in beginner forest.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Frame"
+              "title": "Dryad ambush in beginner forest"
             }
           }
         ]
@@ -182,30 +182,34 @@
   },
   "active": "01815ff009f57879",
   "lastOpenFiles": [
+    "Campaign/Session notes/Upcoming sessions.md",
+    "Lazy GM Campaign Template/Locations/Example Location.md",
+    "Campaign/Encounters/Dryad ambush in beginner forest.md",
+    "Unstructured notes/Adversary and environment templates.md",
+    "Unstructured notes/Encounter building.md",
+    "Campaign/Encounters",
+    "Unstructured notes/Session zero.md",
+    "Unstructured notes/Enemy factions.md",
+    "Lazy GM Campaign Template/NPCs.md",
+    "Lazy GM Campaign Template/Characters.md",
+    "Campaign/Session notes/Past sessions.md",
     "Campaign/Campaign Frame/The Frame.md",
     "conflict-files-obsidian-git.md",
     "Campaign/Campaign Frame/attachments/the_undying.png",
     "Campaign/Campaign Frame/Pantheon.md",
     "Campaign/Factions/The Undying.md",
     "Campaign/Factions/The Institute.md",
-    "Unstructured notes/Encounter building.md",
     "Unstructured notes/Potential dramatic effects.md",
-    "Campaign/Session notes/Upcoming sessions.md",
-    "Campaign/Session notes/Past sessions.md",
     "Campaign/Campaign Frame/Lore.md",
     "Campaign/Factions/Church of Rebirth.md",
     "Campaign/Factions/Church of Life.md",
     "Campaign/Factions/Church of Death.md",
     "Unstructured notes/Campaign opening ideas.md",
-    "Unstructured notes/Session zero.md",
     "Campaign/Campaign Frame/attachments/old_pantheon.png",
     "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
-    "Lazy GM Campaign Template/Locations/Example Location.md",
     "Campaign/Campaign Frame/attachments/CoaMaker_hq.png",
     "Campaign/Campaign Frame/attachments",
     "Campaign/Campaign Frame/New folder",
-    "Lazy GM Campaign Template/NPCs.md",
-    "Lazy GM Campaign Template/Characters.md",
     "Campaign/Campaign Frame/Untitled",
     "Campaign/Locations/Abandoned capital.md",
     "Campaign/Campaign Frame",
@@ -217,11 +221,7 @@
     "Campaign/Session notes",
     "Campaign/Factions",
     "Campaign/NPCs",
-    "Campaign/Locations",
-    "Unstructured notes/Adventure 1 - Discovering the first tomb.md",
     "Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
-    "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png",
-    "Unstructured notes/Adversary and environment templates.md",
-    "Lazy GM Campaign Template/Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg.md"
+    "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png"
   ]
 }
