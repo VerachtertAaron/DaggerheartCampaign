@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Encounters/Dryad ambush in beginner forest.md",
+                "file": "Campaign/Session notes/Upcoming sessions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dryad ambush in beginner forest"
+              "title": "Upcoming sessions"
             }
           }
         ]
@@ -182,9 +182,15 @@
   },
   "active": "01815ff009f57879",
   "lastOpenFiles": [
+    "Campaign/Campaign Frame/The Frame.md",
+    "Campaign/Campaign Frame/Pantheon.md",
+    "Campaign/Factions/The Undying.md",
+    "Campaign/Campaign Frame/attachments/the_undying.png",
+    "Campaign/Campaign Frame/attachments/old_pantheon.png",
+    "Campaign/Campaign Frame/Lore.md",
     "Campaign/Session notes/Upcoming sessions.md",
-    "Lazy GM Campaign Template/Locations/Example Location.md",
     "Campaign/Encounters/Dryad ambush in beginner forest.md",
+    "Lazy GM Campaign Template/Locations/Example Location.md",
     "Unstructured notes/Adversary and environment templates.md",
     "Unstructured notes/Encounter building.md",
     "Campaign/Encounters",
@@ -193,19 +199,13 @@
     "Lazy GM Campaign Template/NPCs.md",
     "Lazy GM Campaign Template/Characters.md",
     "Campaign/Session notes/Past sessions.md",
-    "Campaign/Campaign Frame/The Frame.md",
     "conflict-files-obsidian-git.md",
-    "Campaign/Campaign Frame/attachments/the_undying.png",
-    "Campaign/Campaign Frame/Pantheon.md",
-    "Campaign/Factions/The Undying.md",
     "Campaign/Factions/The Institute.md",
     "Unstructured notes/Potential dramatic effects.md",
-    "Campaign/Campaign Frame/Lore.md",
     "Campaign/Factions/Church of Rebirth.md",
     "Campaign/Factions/Church of Life.md",
     "Campaign/Factions/Church of Death.md",
     "Unstructured notes/Campaign opening ideas.md",
-    "Campaign/Campaign Frame/attachments/old_pantheon.png",
     "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Campaign/Campaign Frame/attachments/CoaMaker_hq.png",
     "Campaign/Campaign Frame/attachments",
@@ -216,7 +216,6 @@
     "Campaign/Locations/Starter village.md",
     "Campaign/Unbound NPCs",
     "Campaign/Untitled.md",
-    "Campaign/Untitled 1.md",
     "Campaign/Random encounters",
     "Campaign/Session notes",
     "Campaign/Factions",
