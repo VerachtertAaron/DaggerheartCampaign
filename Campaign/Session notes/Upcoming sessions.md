@@ -41,7 +41,7 @@
 	- After the crypts, main worship room. Here, the lieutenant can be heard scolding the acolytes. You hear them scurrying around to prep the ritual for the body snatching of one of the adventurers. Ritual starts on 10 if approached undetected, on 8 if detected. Each roll with fear ticks down the ritual.
 		- Ritual completed: consciousness transferred to adventurer
 		- Ritual not completed (someone gets into close range or lieutenant drops to 3 hp): lieutenant tries to escape, closes pathway behind him.
-	- Either way, afterwards BBEG gives speech, warns adventurers to stop their investigation and triggers the undead horde.
+	- Either way, afterwards BBEG gives speech, warns adventurers to stop their investigation and triggers the undead horde. #todo
 	- Defeating the undead horde should be possible, but very difficult. Tell them they saw at least 30 bodies with runes upon them, and what sounds like screams of the damned coming this way.
 	- If they decide to run, there's a pathway where either the lieutenant ran off to or just visible. Ask the closest one to do a DC8 instinct roll to recognize that this door can probably be opened using some force.
 	- Chase scene (8 progress, 12 consequence)
