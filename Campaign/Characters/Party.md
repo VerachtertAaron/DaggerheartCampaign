@@ -1,0 +1,1 @@
+Li heeft [[Clank (Michael)]] diep in de bossen gevonden in een ruïne, heeft hem meegenomen om te reassemblen.

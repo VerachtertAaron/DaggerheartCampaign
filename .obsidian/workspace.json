@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session notes/Upcoming sessions.md",
+                "file": "Campaign/Campaign Frame/The Frame.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Upcoming sessions"
+              "title": "The Frame"
+            }
+          },
+          {
+            "id": "803d59b4b989d0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Campaign Frame/The Frame.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Frame"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -180,16 +196,22 @@
       "daggerheart-tools:Daggerheart Tools": false
     }
   },
-  "active": "01815ff009f57879",
+  "active": "803d59b4b989d0e4",
   "lastOpenFiles": [
+    "Campaign/Characters/Party.md",
+    "Campaign/Characters/Wintermute (Wouter).md",
     "Campaign/Campaign Frame/The Frame.md",
+    "Campaign/Campaign Frame/Session zero info.md",
+    "Campaign/Characters/Carrol (Bart).md",
+    "Campaign/Characters/Li (Tim).md",
     "Campaign/Campaign Frame/Pantheon.md",
+    "Campaign/Characters/Clank (Michael).md",
+    "Campaign/Encounters/Dryad ambush in beginner forest.md",
+    "Campaign/Session notes/Upcoming sessions.md",
     "Campaign/Factions/The Undying.md",
     "Campaign/Campaign Frame/attachments/the_undying.png",
     "Campaign/Campaign Frame/attachments/old_pantheon.png",
     "Campaign/Campaign Frame/Lore.md",
-    "Campaign/Session notes/Upcoming sessions.md",
-    "Campaign/Encounters/Dryad ambush in beginner forest.md",
     "Lazy GM Campaign Template/Locations/Example Location.md",
     "Unstructured notes/Adversary and environment templates.md",
     "Unstructured notes/Encounter building.md",
@@ -205,17 +227,12 @@
     "Campaign/Factions/Church of Rebirth.md",
     "Campaign/Factions/Church of Life.md",
     "Campaign/Factions/Church of Death.md",
-    "Unstructured notes/Campaign opening ideas.md",
-    "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Campaign/Campaign Frame/attachments/CoaMaker_hq.png",
     "Campaign/Campaign Frame/attachments",
     "Campaign/Campaign Frame/New folder",
     "Campaign/Campaign Frame/Untitled",
-    "Campaign/Locations/Abandoned capital.md",
     "Campaign/Campaign Frame",
-    "Campaign/Locations/Starter village.md",
     "Campaign/Unbound NPCs",
-    "Campaign/Untitled.md",
     "Campaign/Random encounters",
     "Campaign/Session notes",
     "Campaign/Factions",
