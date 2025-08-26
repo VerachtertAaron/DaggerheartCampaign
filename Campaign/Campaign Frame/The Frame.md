@@ -1,3 +1,4 @@
+![[Pasted image 20250826163229.png]]
 # Overview
 - Hundreds of years ago, the area where we start this story was controlled by The Empire of the Trinity. Nowadays we also know it as the Empire of the Old Gods. It was a theocracy, with the Triumvirate at the wheel: the heads of church of the three gods in the Pantheon. These gods are [[Pantheon#Cynon, God of Death]], [[Pantheon#Eripnes, God of Life]] and [[Pantheon#Praditaea, God of Rebirth]]. All aspects of life were guided by the principles, customs and rules imposed by the Triumvirate, and watched over by the Crusaders of the Pantheon. 
 - As the enforcers of the Gods, these crusaders were the police and army of The Empire. The batallions of these Holy Forces were lead by the first sons and daughters of the aristocracy.
