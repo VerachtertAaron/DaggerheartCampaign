@@ -1,0 +1,1 @@
+![[daggerheart-adversary-Gargoyle.png]]

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session notes/Upcomming adventures/Rescue the archaeologists.md",
+                "file": "Campaign/Session notes/Upcoming sessions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rescue the archaeologists"
-            }
-          },
-          {
-            "id": "803d59b4b989d0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/Encounters/Dryad ambush in beginner forest.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dryad ambush in beginner forest"
+              "title": "Upcoming sessions"
             }
           }
         ]
@@ -183,7 +169,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -197,47 +182,50 @@
   },
   "active": "01815ff009f57879",
   "lastOpenFiles": [
+    "Campaign/Factions/The Undying.md",
     "Campaign/Session notes/Upcoming sessions.md",
-    "Campaign/Session notes/Upcomming adventures/Rescue the archaeologists.md",
     "Campaign/Session notes/Past sessions.md",
-    "Campaign/Encounters/Dryad ambush in beginner forest.md",
+    "Campaign/Encounters/Church of the Trinity/Ritual bossfight.md",
+    "Campaign/Session notes/Upcomming adventures/Rescue the archaeologists.md",
+    "Pasted image 20251004223243.png",
+    "daggerheart-adversary-Fallen Paladin.png",
+    "Campaign/Encounters/Church of the Trinity/Clocktower.md",
+    "daggerheart-adversary-Gargoyle.png",
+    "Campaign/Encounters/Church of the Trinity/Kitchen.md",
+    "Pasted image 20251004221017.png",
+    "Pasted image 20251004220712.png",
+    "Campaign/Encounters/Church of the Trinity/Living Quarters.md",
+    "Pasted image 20251004220433.png",
+    "Pasted image 20251004220356.png",
+    "Pasted image 20251004220305.png",
+    "Campaign/Encounters/Church of the Trinity",
+    "Campaign/Locations/Flotsam.md",
     "Campaign/Campaign Frame/The Frame.md",
+    "Unstructured notes/Adventure 1 - Discovering the first tomb.md",
+    "Unstructured notes/Adventure ideas.md",
+    "Unstructured notes/Adversary and environment templates.md",
+    "Unstructured notes/Campaign hook ideas.md",
+    "Unstructured notes/Campaign ideas.md",
+    "Unstructured notes/Arc 1 - The discovery of the BBEG.md",
+    "Lazy GM Campaign Template/NPCs.md",
+    "Campaign/NPCs.md",
+    "Campaign/Characters/Party.md",
+    "Campaign/Untitled",
+    "Campaign/Campaign Frame/Session zero info.md",
+    "Campaign/Campaign Frame/Pantheon.md",
+    "Campaign/Factions/The Institute.md",
+    "Campaign/Factions/Church of Rebirth.md",
+    "Campaign/Factions/Church of Death.md",
+    "Campaign/Factions/Church of Life.md",
     "Pasted image 20250826163229.png",
     "Pasted image 20250826163219.png",
-    "Campaign/Encounters/Constructs at the tavern.md",
-    "Campaign/Session notes/Untitled.md",
     "Campaign/Session notes/Upcomming adventures",
-    "Campaign/Characters/Party.md",
-    "Campaign/Characters/Wintermute (Wouter).md",
-    "Campaign/Campaign Frame/Session zero info.md",
-    "Campaign/Characters/Carrol (Bart).md",
-    "Campaign/Characters/Li (Tim).md",
-    "Campaign/Campaign Frame/Pantheon.md",
-    "Campaign/Characters/Clank (Michael).md",
-    "Campaign/Factions/The Undying.md",
-    "Campaign/Campaign Frame/attachments/the_undying.png",
-    "Campaign/Campaign Frame/attachments/old_pantheon.png",
-    "Campaign/Campaign Frame/Lore.md",
-    "Lazy GM Campaign Template/Locations/Example Location.md",
-    "Unstructured notes/Adversary and environment templates.md",
-    "Unstructured notes/Encounter building.md",
+    "Campaign/Characters",
     "Campaign/Encounters",
-    "Unstructured notes/Session zero.md",
-    "Unstructured notes/Enemy factions.md",
-    "Lazy GM Campaign Template/NPCs.md",
-    "Lazy GM Campaign Template/Characters.md",
-    "conflict-files-obsidian-git.md",
-    "Campaign/Factions/The Institute.md",
-    "Campaign/Campaign Frame/attachments/CoaMaker_hq.png",
     "Campaign/Campaign Frame/attachments",
     "Campaign/Campaign Frame/New folder",
     "Campaign/Campaign Frame/Untitled",
     "Campaign/Campaign Frame",
-    "Campaign/Unbound NPCs",
-    "Campaign/Random encounters",
-    "Campaign/Session notes",
-    "Campaign/Factions",
-    "Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
-    "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png"
+    "Campaign/Unbound NPCs"
   ]
 }
