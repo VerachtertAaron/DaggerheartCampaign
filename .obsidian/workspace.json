@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session notes/Upcoming sessions.md",
+                "file": "Campaign/Session notes/Upcomming adventures/Rescue the archaeologists.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Upcoming sessions"
+              "title": "Rescue the archaeologists"
+            }
+          },
+          {
+            "id": "803d59b4b989d0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Encounters/Dryad ambush in beginner forest.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dryad ambush in beginner forest"
             }
           }
         ]
@@ -169,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -182,14 +197,27 @@
   },
   "active": "01815ff009f57879",
   "lastOpenFiles": [
+    "Campaign/Session notes/Upcoming sessions.md",
+    "Campaign/Session notes/Upcomming adventures/Rescue the archaeologists.md",
+    "Campaign/Session notes/Past sessions.md",
+    "Campaign/Encounters/Dryad ambush in beginner forest.md",
     "Campaign/Campaign Frame/The Frame.md",
+    "Pasted image 20250826163229.png",
+    "Pasted image 20250826163219.png",
+    "Campaign/Encounters/Constructs at the tavern.md",
+    "Campaign/Session notes/Untitled.md",
+    "Campaign/Session notes/Upcomming adventures",
+    "Campaign/Characters/Party.md",
+    "Campaign/Characters/Wintermute (Wouter).md",
+    "Campaign/Campaign Frame/Session zero info.md",
+    "Campaign/Characters/Carrol (Bart).md",
+    "Campaign/Characters/Li (Tim).md",
     "Campaign/Campaign Frame/Pantheon.md",
+    "Campaign/Characters/Clank (Michael).md",
     "Campaign/Factions/The Undying.md",
     "Campaign/Campaign Frame/attachments/the_undying.png",
     "Campaign/Campaign Frame/attachments/old_pantheon.png",
     "Campaign/Campaign Frame/Lore.md",
-    "Campaign/Session notes/Upcoming sessions.md",
-    "Campaign/Encounters/Dryad ambush in beginner forest.md",
     "Lazy GM Campaign Template/Locations/Example Location.md",
     "Unstructured notes/Adversary and environment templates.md",
     "Unstructured notes/Encounter building.md",
@@ -198,28 +226,17 @@
     "Unstructured notes/Enemy factions.md",
     "Lazy GM Campaign Template/NPCs.md",
     "Lazy GM Campaign Template/Characters.md",
-    "Campaign/Session notes/Past sessions.md",
     "conflict-files-obsidian-git.md",
     "Campaign/Factions/The Institute.md",
-    "Unstructured notes/Potential dramatic effects.md",
-    "Campaign/Factions/Church of Rebirth.md",
-    "Campaign/Factions/Church of Life.md",
-    "Campaign/Factions/Church of Death.md",
-    "Unstructured notes/Campaign opening ideas.md",
-    "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
     "Campaign/Campaign Frame/attachments/CoaMaker_hq.png",
     "Campaign/Campaign Frame/attachments",
     "Campaign/Campaign Frame/New folder",
     "Campaign/Campaign Frame/Untitled",
-    "Campaign/Locations/Abandoned capital.md",
     "Campaign/Campaign Frame",
-    "Campaign/Locations/Starter village.md",
     "Campaign/Unbound NPCs",
-    "Campaign/Untitled.md",
     "Campaign/Random encounters",
     "Campaign/Session notes",
     "Campaign/Factions",
-    "Campaign/NPCs",
     "Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg",
     "Lazy GM Campaign Template/attachments/bailon_the_beardless.png.png"
   ]
